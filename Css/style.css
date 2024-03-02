@@ -1,13 +1,13 @@
 @font-face{
 
     font-family: Poppins;
-    src: url(Fonts/Poppins-Regular.ttf);
+    src: url(Poppins-Regular.ttf);
 }
 
 @font-face{
 
     font-family: Poppins-bold;
-    src: url(Fonts/Poppins-Bold.ttf);
+    src: url(Poppins-Bold.ttf);
 }
 
 body{
